@@ -1,7 +1,9 @@
 ![logo](https://github.com/Sanket1909/Sanket1909/blob/main/sanket.png)
 <h1 align="center">Hi 👋, I'm Sanket Patel</h1>
 <h3 align="center">A Passionate iOS developer from Canada</h3>
-<img align. = “right”  width=“400” src =  “https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966”></img>
+
+<img align="right" alt = "coding" height="400px" width="500px" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket1909&label=Profile%20views&color=0e75b6&style=flat" alt="sanket1909" /> </p>
 
 - 🔭 I’m currently working on [Fitness App](https://apps.apple.com/tt/app/fitness-arena/id1607786727)
@@ -9,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sanket-patel-a71855172/](https://www.linkedin.com/in/sanket-patel-a71855172/)
 
 - 📫 How to reach me **sanket190997@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
