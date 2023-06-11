@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanket1909/Sanket1909/blob/main/sanket.png)
+
 <h1 align="center">Hi 👋, I'm Sanket Patel</h1>
 <h3 align="center">A Passionate iOS developer from Canada</h3>
 
