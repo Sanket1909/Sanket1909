@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket1909&label=Profile%20views&color=0e75b6&style=flat" alt="sanket1909" /> </p>
 
-- 🔭 I’m currently working on [Fitness App](https://apps.apple.com/tt/app/fitness-arena/id1607786727)
+
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sanket-patel-a71855172/](https://www.linkedin.com/in/sanket-patel-a71855172/)
 
