@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanket Patel</h1>
-<h3 align="center">A Passionate iOS developer from Canada</h3>
+<h3 align="center">A Passionate Software developer from Canada</h3>
 
 <img align="right" alt = "coding" height="400px" width="500px" src = "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
