@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sanket-patel-a71855172/](https://www.linkedin.com/in/sanket-patel-a71855172/)
+
 
 - 📫 How to reach me **sanket190997@gmail.com**
 
